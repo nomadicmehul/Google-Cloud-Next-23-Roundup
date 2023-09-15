@@ -22,7 +22,7 @@
 ## PaLM 2 Foundation Model
 
 - Now supports 38 languages and 32,000-token context windows, making it possible to process long documents in prompts.
-- **Example**: Search on 8 million Stack Overflow questions in milliseconds. [Try the demo here](demo_link)
+- **Example**: Search on 8 million Stack Overflow questions in milliseconds. [Try the demo here](https://ai-demos.dev/demos/matching-engine)
 
 # Databases
 
@@ -79,6 +79,9 @@
 ## Cloud TPUs
 
 - Custom-designed AI accelerators optimized for training and inference of large AI models.
+
+![5_rTMLoQP max-1200x1200](https://github.com/nomadicmehul/Google-Cloud-Next-23-Roundup/assets/11514627/3671639b-2e9a-4bdd-aaa8-c7eb6a7aa539)
+
 - Ideal for various use cases such as chatbots, code generation, media content generation, synthetic speech, vision services, recommendation engines, and personalization models.
 
 # Compute and Traditional Enterprise Workloads
